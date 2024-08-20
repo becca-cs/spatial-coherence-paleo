@@ -1,4 +1,7 @@
 # spatial-coherence-paleo
+
+This page is in progress.
+
 Accompanying code and data for "Statistical fingerprints of forced and unforced variability reveal inconsistencies between marine proxies and climate models on multi-decadal to millennial timescales" (Cleveland Stout et al, submitted)
 
 Included here is a zip file "proxies" with proxy data, as well as a "tools" package.
