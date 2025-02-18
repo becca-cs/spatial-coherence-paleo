@@ -4,7 +4,7 @@ This page is in progress.
 
 Accompanying code and data for "Statistical fingerprints of forced and unforced variability reveal inconsistencies between marine proxies and climate models on multi-decadal to millennial timescales" (Cleveland Stout et al, submitted)
 
-Included here is a zip file "proxies" with proxy data, as well as a "tools" package.
+Included here are two proxy datasets ("MgCa.mat" and "uk37.mat"), as well as a "tools" package.
 
 Tools contains:
 
@@ -16,4 +16,4 @@ Tools contains:
 2. sedproxy, a marine sediment proxy-system model package
 - age_depth_model.m : age-depth sediment model
 - plot_age_depth_example.m : example implementation of age_depth_model.m
-- test_ClimToProxyClim.m : example of Sedproxy implementation (see https://github.com/EarthSystemDiagnostics/sedproxy as well for implementation in R)
+- test_ClimToProxyClim.m : example of Sedproxy implementation (see https://github.com/EarthSystemDiagnostics/sedproxy as well for implementation in R; Dolman et al., 2018)
